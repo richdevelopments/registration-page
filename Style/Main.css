@@ -1,0 +1,15 @@
+﻿body {
+    font-family: Calibri;
+    font-size: 14px;
+}
+.DataCaptureLabel {
+    font-weight: bold;
+    vertical-align: top;
+}
+.HeadingLabel {
+    font-size: 120%;
+    
+}
+.DataCaptureValue {
+    font-weight: 500;
+}
